@@ -8,8 +8,8 @@ This programme is to learn python from scratch by the python challenge, which st
   <li>Python base
   <li>Numpy
   <li>pandas
-Everything will be submitted through github;
-On Day 1:
+<br>Everything will be submitted through github;
+<br>On Day 1:
     https://colab.research.google.com/drive/1VxSJZfyF0zf955iVrLtCIZ3nb6na-AqA?usp=sharing
     
     
