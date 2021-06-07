@@ -1,9 +1,8 @@
 # Learn.PY
 Hi I made this project on the basis of the programme LEARN.PY by TinkerHub. 
-This programme is to learn python from scratch by the python challenge, which starts from June 7 onwards.  
-This programme helps to learn by ourselves by accepting challenges. 
+This programme is to learn python from scratch by the python challenge, which starts from June 7 onwards.  This programme helps to learn by ourselves by accepting challenges. 
 While finishing the project :
-<cr>I will get hands o experience on:
+<cr>I will get hands to experience on:
   <li>Python base
   <li>Numpy
   <li>pandas
