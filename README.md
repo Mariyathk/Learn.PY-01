@@ -3,7 +3,7 @@ Hi I made this project on the basis of the programme LEARN.PY by TinkerHub.
 
 This programme is to learn python from scratch by the python challenge, which starts from June 7 onwards.  This programme helps to learn by ourselves by accepting challenges.
 
-<cr>While finishing the project :
+<cr>While finishing the project ,
 <cr>I will get hands to experience on:
   <li>Python base
   <li>Numpy
