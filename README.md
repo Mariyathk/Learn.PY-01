@@ -11,5 +11,6 @@ This programme is to learn python from scratch by the python challenge, which st
 <br>Everything will be submitted through github;
 <br>On Day 1:
     https://colab.research.google.com/drive/1VxSJZfyF0zf955iVrLtCIZ3nb6na-AqA?usp=sharing
-    
+<br> Day 2:
+    https://colab.research.google.com/drive/1lVTtw1vd6WIODpzLLa1aUyd5cIidBFC6?usp=sharing
     
