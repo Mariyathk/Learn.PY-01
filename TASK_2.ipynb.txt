@@ -1,0 +1,129 @@
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "name": "TASK 2.ipynb",
+      "provenance": []
+    },
+    "kernelspec": {
+      "name": "python3",
+      "display_name": "Python 3"
+    },
+    "language_info": {
+      "name": "python"
+    }
+  },
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "LsC-2SdxAo8v"
+      },
+      "source": [
+        "1 ) Consider i = 2, Write a program to convert i to float. \n",
+        "---\n",
+        "\n",
+        "    (Expected Output = 2.0 )\n"
+      ]
+    },
+    {
+      "cell_type": "code",
+      "metadata": {
+        "id": "sHcMeA4vCUyp",
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        },
+        "outputId": "8fc948c1-4f6c-4d3c-e4e8-f4f89d2bfc51"
+      },
+      "source": [
+        "i = 2\n",
+        "print(float(i))"
+      ],
+      "execution_count": null,
+      "outputs": [
+        {
+          "output_type": "stream",
+          "text": [
+            "2.0\n"
+          ],
+          "name": "stdout"
+        }
+      ]
+    },
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "w5XXklMpCZna"
+      },
+      "source": [
+        "2 )Consider x=\"Hello\" and y=\"World\" , then write a program to concatinate the strings to a single string and print the result.\n",
+        "            \n",
+        "            \n",
+        "            \n",
+        "            \n",
+        "          ( Expected output = Hello World )"
+      ]
+    },
+    {
+      "cell_type": "code",
+      "metadata": {
+        "id": "T72ap7WDD1OD",
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        },
+        "outputId": "0ed6f86c-7ef3-42f7-b9db-ff3636498982"
+      },
+      "source": [
+        "x = \"Hello\"\n",
+        "y = \"World\"\n",
+        "print (x + ' ' + y)"
+      ],
+      "execution_count": null,
+      "outputs": [
+        {
+          "output_type": "stream",
+          "text": [
+            "Hello World\n"
+          ],
+          "name": "stdout"
+        }
+      ]
+    },
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "tnp5Z3JyD7iO"
+      },
+      "source": [
+        "3 ) Consider pi = 3.14 . print the value of pie and its type."
+      ]
+    },
+    {
+      "cell_type": "code",
+      "metadata": {
+        "id": "hQQkH2m4E_Ci",
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        },
+        "outputId": "eddeaf8e-16fa-4baa-973a-69d1abbfceea"
+      },
+      "source": [
+        "pi = 3.14\n",
+        "print (pi)\n",
+        "print ( type (pi))"
+      ],
+      "execution_count": null,
+      "outputs": [
+        {
+          "output_type": "stream",
+          "text": [
+            "3.14\n",
+            "<class 'float'>\n"
+          ],
+          "name": "stdout"
+        }
+      ]
+    }
+  ]
+}
